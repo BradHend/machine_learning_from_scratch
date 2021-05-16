@@ -5,5 +5,6 @@ Currently only supports Deep (n-layer) Nerual Network models.
 
 To-do:
 1. convert optimizers to object-oriented
-2. add support for 2D convolutional layers and pooling layers
-3. more model types (Mixture Density Network, etc..)?
+2. add train convergence tests (early stopping, best-weights, etc..)
+3. add support for 2D convolutional layers and pooling layers
+4. more model types (Mixture Density Network, etc..)?
